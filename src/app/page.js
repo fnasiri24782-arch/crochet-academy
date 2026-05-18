@@ -20,7 +20,7 @@ export default function Home() {
         <p className="text-xl text-amber-700 mb-10 max-w-xl mx-auto">
           با HookNest، از مبتدی تا حرفه‌ای، قدم به قدم پیش برو
         </p>
-        <a href="#" className="bg-amber-500 text-white px-8 py-4 rounded-full text-lg font-bold hover:bg-amber-600 transition">
+        <a href="/courses" className="bg-amber-500 text-white px-8 py-4 rounded-full text-lg font-bold hover:bg-amber-600 transition">
           شروع یادگیری
         </a>
       </section>
