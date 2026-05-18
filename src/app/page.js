@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-2xl font-bold text-amber-700">🧶 HookNest</h1>
         <nav className="flex gap-6 text-amber-800 font-medium">
           <a href="#" className="hover:text-amber-500">خانه</a>
-          <a href="#" className="hover:text-amber-500">دوره‌ها</a>
+          <a href="/courses" className="hover:text-amber-500">دوره‌ها</a>
           <a href="#" className="hover:text-amber-500">درباره ما</a>
         </nav>
       </header>
